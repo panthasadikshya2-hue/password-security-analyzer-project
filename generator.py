@@ -21,3 +21,6 @@ def generate_password(length=16):
     secrets.SystemRandom().shuffle(password)
 
     return ''.join(password)
+
+if __name__ == "__main__":
+    print(generate_password())
