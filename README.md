@@ -1,5 +1,7 @@
 # Password Security Analyzer
 
+![Password Analyzer Demo](password-analyzer-demo.png)
+
 A Python-based cybersecurity project that analyzes password security using multiple security indicators.
 
 ## Features
